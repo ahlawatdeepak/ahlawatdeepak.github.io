@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a9848a4.css",
-    "main.js": "/static/js/main.ed0a30e5.js",
+    "main.css": "/static/css/main.11dfff7b.css",
+    "main.js": "/static/js/main.c9830ad9.js",
     "static/media/apod.jpg": "/static/media/apod.5837a97979bfd98485a6.jpg",
     "static/media/iptracker.jpg": "/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
     "static/media/nftportal.jpg": "/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
@@ -14,17 +14,20 @@
     "static/media/boat.jpg": "/static/media/boat.e68509a39ba377063046.jpg",
     "static/media/nextjs.png": "/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/d3.png": "/static/media/d3.0e0a7c55c8b6b1070b7e.png",
+    "static/media/ts.png": "/static/media/ts.8e08c2165d60d7ca62a9.png",
+    "static/media/amazon-web-services.png": "/static/media/amazon-web-services.b25c2a0cd12debd83960.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.9a9848a4.css.map": "/static/css/main.9a9848a4.css.map",
-    "main.ed0a30e5.js.map": "/static/js/main.ed0a30e5.js.map"
+    "main.11dfff7b.css.map": "/static/css/main.11dfff7b.css.map",
+    "main.c9830ad9.js.map": "/static/js/main.c9830ad9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a9848a4.css",
-    "static/js/main.ed0a30e5.js"
+    "static/css/main.11dfff7b.css",
+    "static/js/main.c9830ad9.js"
   ]
 }
